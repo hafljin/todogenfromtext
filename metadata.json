@@ -1,0 +1,5 @@
+{
+  "name": "Minutes to Tasks",
+  "description": "A lightweight tool to automatically extract and organize actionable tasks from meeting notes using rule-based logic.",
+  "requestFramePermissions": []
+}
